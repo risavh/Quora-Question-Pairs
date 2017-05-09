@@ -1,5 +1,10 @@
 # Quora-Question-Pairs
 Kaggle 
+
+QUORA-1.ipynb -- uses Levenshtein distance algorithm to find similarity with 63% accuracy on sample subset
+QUORA-2.ipynb -- uses Cosine similarity with 65% accuracy on sample subset
+
+
 Identify question pairs that have the same intent?
 
 Where else but Quora can a physicist help a chef with a math problem and get cooking tips in return? Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
